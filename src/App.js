@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello vipin raj r
+          Hello vipin 
         </a>
       </header>
     </div>
